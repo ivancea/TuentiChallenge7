@@ -1,8 +1,12 @@
+
+// Se me han ocurrido muchas mejoras para este challenge... cuando ya había enviado el submit :D!
+
 #include <iostream>
 #include <vector>
 #include <cmath>
 
 using namespace std;
+
 
 void addSections(int& straight, int& curve, int& doubleStraight, bool curveStrategy){
 	int usedStraight = 0;
